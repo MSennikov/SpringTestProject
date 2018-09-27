@@ -1,0 +1,210 @@
+
+// Here you can add other styles
+
+.login-page-center{
+  margin-top: 10%;
+}
+
+.border-radius{
+  border-radius: 5px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-medium{
+  font-size: medium;
+}
+
+.below-form-text{
+  text-align: center;
+  font-size: medium;
+  margin-top: 10px;
+}
+
+.below-form-div{
+  text-align: center;
+}
+
+.registration-form{
+  background-color: white;
+  border-radius: 5px;
+  padding: 2em;
+}
+
+.alert-form{
+  margin-top: 2em;
+}
+
+.nav-link-custom {
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.form-control-readonly[readonly] {
+  background-color: white;
+}
+
+
+.mr-10{
+  margin-right: 10px;
+}
+
+.map-responsive{
+    z-index:1;
+    left: 0;
+    top: 0;
+    width:100%;
+    position:absolute;
+    bottom: 0;
+}
+
+.pull-right {
+  float: right;
+}
+
+.indent-for-button button {
+  margin-left: 3px;
+  margin-right: 3px;
+  margin-top: 0 !important;
+  height: 33px;
+}
+
+
+.main .container-fluid {
+  padding-top: 30px !important;
+}
+
+label {
+  font-weight: 600;
+}
+
+.subhead-heading {
+  font-size: 24px;
+  font-weight: normal;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+}
+
+.edit-profile-avatar {
+  width: 200px;
+}
+
+.avatar-upload {
+  width: 100%;
+  margin-top: 16px;
+  font-weight: 600;
+}
+
+.flex-align-center {
+  padding: 10px;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-group-addon {
+  padding: 0.7rem 0.75rem;
+  margin-bottom: 0;
+  font-size: 0.875rem;
+  font-weight: normal;
+  line-height: 1.25;
+  color: #3e515b;
+  text-align: center;
+  background-color: #f0f3f5;
+  border: 1px solid #c2cfd6;
+  border-right: 0;
+}
+
+.nav .nav-item {
+  min-width: 25px !important;
+}
+
+header button{
+  margin-top: 10px;
+}
+
+.issue_marker{
+    top: 0px;
+    right: 0px;
+    z-index: 999;
+    position: absolute;
+    background-color: white;
+    height: 100%;
+    width: 800px;
+}
+
+.issue_marker_v1{
+    display: none;
+}
+
+.gm-bundled-control-on-bottom{
+    left: 0px;
+    margin-bottom: 30px !important;
+}
+
+.gm-style button{
+    display: none;
+}
+
+.description-card{
+    font-size: 14px;
+    width: 300px;
+    height: 300px;
+    left: 50px;
+    position:absolute;
+}
+
+.title-card{
+    left: 40%;
+    position: absolute;
+}
+
+.close-button{
+    right: 20px;
+    position: absolute;
+    top: 20px;
+}
+
+.card-header{
+    height:70px;
+}
+
+.card-img{
+    height: 300px;
+    background-color: #f0f3f6;
+    text-align: center;
+}
+
+.img{
+    max-height: 300px;
+}
+
+.card-text{
+    height: 300px;
+    display: block;
+    border: 1px solid #c2cfd6;
+    overflow-y: scroll;
+}
+
+.comments-card{
+    font-size: 14px;
+    right: 50px;
+    position:absolute;
+    height: 300px;
+    width: 300px;
+    background-color: green;
+
+}
+
+.comments{
+        position:absolute;
+        height: 300px;
+        width: 300px;
+        background-color: gray;
+        border: 1px solid #c2cfd6;
+}
